@@ -1,0 +1,16 @@
+D:\雪野实训学习\作业备份TaskBackUP\NotePad\NotePad\bin\Debug\NotePad.exe
+D:\雪野实训学习\作业备份TaskBackUP\NotePad\NotePad\bin\Debug\NotePad.pdb
+D:\雪野实训学习\作业备份TaskBackUP\NotePad\NotePad\obj\x86\Debug\NotePad.MyNotePad.resources
+D:\雪野实训学习\作业备份TaskBackUP\NotePad\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+D:\雪野实训学习\作业备份TaskBackUP\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.GenerateResource.Cache
+D:\雪野实训学习\作业备份TaskBackUP\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+D:\雪野实训学习\作业备份TaskBackUP\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
+D:\C#\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+D:\C#\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
+D:\C#\NotePad\NotePad\bin\Debug\NotePad.exe
+D:\C#\NotePad\NotePad\bin\Debug\NotePad.pdb
+D:\C#\NotePad\NotePad\obj\x86\Debug\NotePad.MyNotePad.resources
+D:\C#\NotePad\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+D:\C#\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.GenerateResource.Cache
+D:\C#\NotePad\NotePad\obj\x86\Debug\NotePad.Find.resources
+D:\C#\NotePad\NotePad\obj\x86\Debug\NotePad.Replace.resources
